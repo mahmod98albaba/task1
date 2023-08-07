@@ -1,5 +1,6 @@
 javascript
 function calculateGrade() {
+     var name = prompt("Enter your name please :");
     var mark = prompt("Enter the mark:");
 
     if (mark >= 0 && mark <= 49) {
